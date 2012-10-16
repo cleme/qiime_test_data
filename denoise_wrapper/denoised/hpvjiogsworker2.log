@@ -1,0 +1,161 @@
+Client /tmp/hpvjiogsworker2 trying to connect to 10.210.38.18:45981
+Server not ready: [Errno 107] Transport endpoint is not connected
+Server connection established
+client connected to ('10.210.38.18', 45981)
+Data for round 0 received: 1350413156.4
+/tmp/hpvjiogsworker2_0... done!
+Data for round 1 received: 1350413169.93
+/tmp/hpvjiogsworker2_1... done!
+Data for round 2 received: 1350413173.48
+/tmp/hpvjiogsworker2_2... done!
+Data for round 3 received: 1350413176.54
+/tmp/hpvjiogsworker2_3... done!
+Data for round 4 received: 1350413179.57
+/tmp/hpvjiogsworker2_4... done!
+Data for round 5 received: 1350413182.52
+/tmp/hpvjiogsworker2_5... done!
+Data for round 6 received: 1350413185.82
+/tmp/hpvjiogsworker2_6... done!
+Data for round 7 received: 1350413188.66
+/tmp/hpvjiogsworker2_7... done!
+Data for round 8 received: 1350413191.82
+/tmp/hpvjiogsworker2_8... done!
+Data for round 9 received: 1350413194.99
+/tmp/hpvjiogsworker2_9... done!
+Data for round 10 received: 1350413197.75
+/tmp/hpvjiogsworker2_10... done!
+Data for round 11 received: 1350413200.84
+/tmp/hpvjiogsworker2_11... done!
+Data for round 12 received: 1350413203.89
+/tmp/hpvjiogsworker2_12... done!
+Data for round 13 received: 1350413206.48
+/tmp/hpvjiogsworker2_13... done!
+Data for round 14 received: 1350413209.42
+/tmp/hpvjiogsworker2_14... done!
+Data for round 15 received: 1350413211.98
+/tmp/hpvjiogsworker2_15... done!
+Data for round 16 received: 1350413214.88
+/tmp/hpvjiogsworker2_16... done!
+Data for round 17 received: 1350413217.41
+/tmp/hpvjiogsworker2_17... done!
+Data for round 18 received: 1350413219.89
+/tmp/hpvjiogsworker2_18... done!
+Data for round 19 received: 1350413222.37
+/tmp/hpvjiogsworker2_19... done!
+Data for round 20 received: 1350413224.79
+/tmp/hpvjiogsworker2_20... done!
+Data for round 21 received: 1350413227.19
+/tmp/hpvjiogsworker2_21... done!
+Data for round 22 received: 1350413229.92
+/tmp/hpvjiogsworker2_22... done!
+Data for round 23 received: 1350413232.25
+/tmp/hpvjiogsworker2_23... done!
+Data for round 24 received: 1350413234.62
+/tmp/hpvjiogsworker2_24... done!
+Data for round 25 received: 1350413237.3
+/tmp/hpvjiogsworker2_25... done!
+Data for round 26 received: 1350413239.98
+/tmp/hpvjiogsworker2_26... done!
+Data for round 27 received: 1350413242.23
+/tmp/hpvjiogsworker2_27... done!
+Data for round 28 received: 1350413244.47
+/tmp/hpvjiogsworker2_28... done!
+Data for round 29 received: 1350413246.71
+/tmp/hpvjiogsworker2_29... done!
+Data for round 30 received: 1350413249.25
+/tmp/hpvjiogsworker2_30... done!
+Data for round 31 received: 1350413251.43
+/tmp/hpvjiogsworker2_31... done!
+Data for round 32 received: 1350413253.6
+/tmp/hpvjiogsworker2_32... done!
+Data for round 33 received: 1350413256.07
+/tmp/hpvjiogsworker2_33... done!
+Data for round 34 received: 1350413258.56
+/tmp/hpvjiogsworker2_34... done!
+Data for round 35 received: 1350413260.7
+/tmp/hpvjiogsworker2_35... done!
+Data for round 36 received: 1350413262.79
+/tmp/hpvjiogsworker2_36... done!
+Data for round 37 received: 1350413264.87
+/tmp/hpvjiogsworker2_37... done!
+Data for round 38 received: 1350413267.23
+/tmp/hpvjiogsworker2_38... done!
+Data for round 39 received: 1350413269.24
+/tmp/hpvjiogsworker2_39... done!
+Data for round 40 received: 1350413271.26
+/tmp/hpvjiogsworker2_40... done!
+Data for round 41 received: 1350413273.59
+/tmp/hpvjiogsworker2_41... done!
+Data for round 42 received: 1350413275.61
+/tmp/hpvjiogsworker2_42... done!
+Data for round 43 received: 1350413277.63
+/tmp/hpvjiogsworker2_43... done!
+Data for round 44 received: 1350413279.61
+/tmp/hpvjiogsworker2_44... done!
+Data for round 45 received: 1350413281.89
+/tmp/hpvjiogsworker2_45... done!
+Data for round 46 received: 1350413283.84
+/tmp/hpvjiogsworker2_46... done!
+Data for round 47 received: 1350413285.83
+/tmp/hpvjiogsworker2_47... done!
+Data for round 48 received: 1350413287.78
+/tmp/hpvjiogsworker2_48... done!
+Data for round 49 received: 1350413289.72
+/tmp/hpvjiogsworker2_49... done!
+Data for round 50 received: 1350413291.87
+/tmp/hpvjiogsworker2_50... done!
+Data for round 51 received: 1350413293.77
+/tmp/hpvjiogsworker2_51... done!
+Data for round 52 received: 1350413295.73
+/tmp/hpvjiogsworker2_52... done!
+Data for round 53 received: 1350413297.6
+/tmp/hpvjiogsworker2_53... done!
+Data for round 54 received: 1350413299.48
+/tmp/hpvjiogsworker2_54... done!
+Data for round 55 received: 1350413301.3
+/tmp/hpvjiogsworker2_55... done!
+Data for round 56 received: 1350413303.4
+/tmp/hpvjiogsworker2_56... done!
+Data for round 57 received: 1350413305.48
+/tmp/hpvjiogsworker2_57... done!
+Data for round 58 received: 1350413307.29
+/tmp/hpvjiogsworker2_58... done!
+Data for round 59 received: 1350413309.29
+/tmp/hpvjiogsworker2_59... done!
+Data for round 60 received: 1350413311.25
+/tmp/hpvjiogsworker2_60... done!
+Data for round 61 received: 1350413313.2
+/tmp/hpvjiogsworker2_61... done!
+Data for round 62 received: 1350413315.17
+/tmp/hpvjiogsworker2_62... done!
+Data for round 63 received: 1350413317.1
+/tmp/hpvjiogsworker2_63... done!
+Data for round 64 received: 1350413319.04
+/tmp/hpvjiogsworker2_64... done!
+Data for round 65 received: 1350413321.28
+/tmp/hpvjiogsworker2_65... done!
+Data for round 66 received: 1350413323.2
+/tmp/hpvjiogsworker2_66... done!
+Data for round 67 received: 1350413325.41
+/tmp/hpvjiogsworker2_67... done!
+Data for round 68 received: 1350413327.34
+/tmp/hpvjiogsworker2_68... done!
+Data for round 69 received: 1350413329.5
+/tmp/hpvjiogsworker2_69... done!
+Data for round 70 received: 1350413331.39
+/tmp/hpvjiogsworker2_70... done!
+Data for round 71 received: 1350413333.26
+/tmp/hpvjiogsworker2_71... done!
+Data for round 72 received: 1350413335.1
+/tmp/hpvjiogsworker2_72... done!
+Data for round 73 received: 1350413336.91
+/tmp/hpvjiogsworker2_73... done!
+Data for round 74 received: 1350413338.71
+/tmp/hpvjiogsworker2_74... done!
+Data for round 75 received: 1350413340.51
+/tmp/hpvjiogsworker2_75... done!
+Data for round 76 received: 1350413342.56
+/tmp/hpvjiogsworker2_76... done!
+Data for round 77 received: 1350413344.54
+/tmp/hpvjiogsworker2_77... done!
+Server closed connection at 1350413346.48. Shutting down.
